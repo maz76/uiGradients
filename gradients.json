@@ -1,4 +1,8 @@
 [
+  {
+        "name": "play card",
+        "colors": ["#abbaab", "#d11b1b", "#29323c"]
+    },
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
